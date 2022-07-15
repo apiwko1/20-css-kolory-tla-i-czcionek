@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.i1{
+    color:blue;
+    background-color: aquamarine;
+}
+.i2{
+    color:red;
+    background-color:blanchedalmond;
+}
+.i3{
+    color:green;
+    background-color:orangered;
+}
+.i4{
+    color:yellowgreen;
+    background-color:rgb(143, 97, 28);
+}
+.i5{
+    color:grey;
+    background-color:rgb(135, 170, 41);
+}
